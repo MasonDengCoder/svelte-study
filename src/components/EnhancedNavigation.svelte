@@ -107,6 +107,9 @@
 		
 		<!-- 右侧：页面信息和快速操作 -->
 		<div class="nav-actions">
+			<a href="https://github.com/MasonDengCoder/svelte-study" target="_blank">
+				GitHub
+			</a>
 			<button class="quick-nav-toggle" on:click={toggleQuickNav} aria-label="切换快速导航">
 				<span class="quick-nav-icon">⚡</span>
 			</button>

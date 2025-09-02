@@ -2,6 +2,11 @@
 
 一个现代化的 Svelte 学习平台，包含基础教学和高级特性演示。
 
+## 🌐 在线访问
+
+- **静态站点**：https://masondengcoder.github.io/svelte-study/
+- **GitHub 仓库**：https://github.com/MasonDengCoder/svelte-study
+
 ## 🚀 快速开始
 
 ### 安装依赖
